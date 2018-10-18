@@ -1,6 +1,6 @@
 <template>
     <div>
-        home
+        hello word
     </div>
 </template>
 <script>
