@@ -35,6 +35,7 @@ export default{
     .swiper >>> .swiper-pagination-bullet-active
         background: #fff !important
     .swiper
+        overflow:hidden
         width:100%
         height:0
         padding-bottom:31.25%
