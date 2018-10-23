@@ -22,27 +22,8 @@
 <script>
   export default {
     name: 'HomeWeekend',
-    data(){
-      return{
-        list:[
-          {
-          id:'001',
-          imgUrl:'http://img1.qunarzz.com/sight/source/1505/7d/df6ff468331c43.jpg_r_640x214_1f3783d0.jpg',
-          title:'上海必游TOP10',
-          desc:'中西合璧，现代和传统各有各的精彩',
-        }, {
-            id:'002',
-            imgUrl:'http://img1.qunarzz.com/sight/source/1509/41/0a74389a026adc.jpg_r_640x214_5ad7add7.jpg',
-            title:'上海赏秋攻略',
-            desc:'上海的秋天，哪里都是美的',
-          }, {
-            id:'003',
-            imgUrl:'http://img1.qunarzz.com/sight/source/1603/ad/69b0fc5f48ad5f.jpg_r_640x214_b0fd5c7b.jpg',
-            title:'亲子时光TOP10',
-            desc:'走进自然或玩转乐园，感知大千世界',
-          }
-        ]
-      }
+    props:{
+      list:Array,
     }
   }
 </script>
