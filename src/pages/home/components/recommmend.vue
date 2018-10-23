@@ -31,17 +31,17 @@
           title:'上海杜莎夫人蜡像馆',
           desc:'上海市黄浦区南京西路2-68号新世界商厦10楼'
         },{
-          id:'001',
+          id:'002',
           imgUrl:'http://img1.qunarzz.com/sight/p0/1704/c9/c936f3fccfc6d7eda3.img.jpg_200x200_46052773.jpg',
           title:'上海杜莎夫人蜡像馆',
           desc:'上海市黄浦区南京西路2-68号新世界商厦10楼'
         },{
-          id:'001',
+          id:'003',
           imgUrl:'http://img1.qunarzz.com/sight/p0/1704/c9/c936f3fccfc6d7eda3.img.jpg_200x200_46052773.jpg',
           title:'上海杜莎夫人蜡像馆',
           desc:'上海市黄浦区南京西路2-68号新世界商厦10楼'
         },{
-          id:'001',
+          id:'004',
           imgUrl:'http://img1.qunarzz.com/sight/p0/1704/c9/c936f3fccfc6d7eda3.img.jpg_200x200_46052773.jpg',
           title:'上海杜莎夫人蜡像馆',
           desc:'上海市黄浦区南京西路2-68号新世界商厦10楼'
@@ -51,7 +51,6 @@
     }
   }
 </script>
-
 <style lang="stylus" scoped>
   @import '~styles/mixins.styl'
   .title
